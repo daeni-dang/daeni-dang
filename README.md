@@ -13,12 +13,17 @@
 
 [![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeni-dang&show_icons=true&theme=buefy)](https://github.com/daeni-dang/github-readme-stats)
 
-</div>
-
-<div>
-- 🔭 I’m currently studying at <b>Dongguk University</b>.<br>
-- 🌱 My major is <b>Computer Science Engineering</b>.<br>
-- 📫 How to reach me: <b>de021@naver.com</b><br>
+<table align="center">
+    <tr>
+        <td >🔭 I’m currently studying at <b>Dongguk University</b>.</td>
+    </tr>
+    <tr>
+        <td>🌱 My major is <b>Computer Science Engineering</b>.</td>
+    </tr>
+    <tr>
+        <td>👯 I'm interesting in <b>Web Front-end</b></td>
+    </tr>
+</table>
 
 <!--
 **daeni-dang/daeni-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

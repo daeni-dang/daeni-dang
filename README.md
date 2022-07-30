@@ -20,9 +20,6 @@
     <tr>
         <td>🌱 My major is <b>Computer Science Engineering</b>.</td>
     </tr>
-    <tr>
-        <td>👯 I'm interesting in <b>Web Front-end</b></td>
-    </tr>
 </table>
 
 <!--

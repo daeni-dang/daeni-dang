@@ -6,7 +6,7 @@
 
 |✉️Email✉️|⚔️Tech Stack⚔️|
 |:---:|:---:|
-|```de021@naver.com```|<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/><br><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>|
+|```de021@naver.com```|<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/><br><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?&style=for-the-badge&logo=Python&logoColor=white"/>|
 </p>
 
 
